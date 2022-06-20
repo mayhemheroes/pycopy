@@ -1,6 +1,5 @@
-project: rnshah9/pycopy
+project: pycopy
 target: pycopy
-tests: null
 
 cmds:
   - cmd: /repo/ports/unix/pycopy @@
