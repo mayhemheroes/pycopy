@@ -2,4 +2,4 @@ project: pycopy
 target: pycopy
 
 cmds:
-  - cmd: /repo/ports/unix/pycopy @@
+  - cmd: /pycopy @@
